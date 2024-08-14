@@ -1,0 +1,1 @@
+Created a short dialogue system for a collaborative project I'm working on. It is a narratively focused game. The dialogue system as it stands now consists of being presented with dialogue choices, picking a certain option and having the game respond to you based on the choice you picked.
